@@ -1,6 +1,4 @@
-
-<!--
-I'm the developer behind Smart Agriculture Hub 🌱
+Hi, I'm the developer behind Smart Agriculture Hub 🌱
 
 Agricultural Science Education | Digital Agriculture | Technology & Innovation
 
@@ -34,4 +32,3 @@ To explore the connection between agriculture, education and technology by devel
 ---
 
 Learning, building and growing — one project at a time. 🌍
--->
