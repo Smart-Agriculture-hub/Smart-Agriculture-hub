@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 I'm the developer behind Smart Agriculture Hub 🌱
