@@ -31,3 +31,5 @@ To explore the connection between agriculture, education and technology by devel
 ---
 
 Learning, building and growing.🌍
+
+email: smartomapya@gmail.com
