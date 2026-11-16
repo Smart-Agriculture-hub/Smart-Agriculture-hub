@@ -18,11 +18,10 @@ A digital agriculture platform in development, exploring digital learning resour
 - Educational technology
 - Technology-assisted crop and weed identification
 
-🛠️ Currently Learning
+🛠️ Skills/Learning
 
-- HTML, CSS and JavaScript
-- Node.js and backend development
-- Database integration
+- HTML, CSS, PHP, and JavaScript
+- Database integration(SQL)
 - Building practical digital solutions for agriculture
 
 🎯 My Goal
@@ -31,4 +30,4 @@ To explore the connection between agriculture, education and technology by devel
 
 ---
 
-Learning, building and growing — one project at a time. 🌍
+Learning, building and growing.🌍
